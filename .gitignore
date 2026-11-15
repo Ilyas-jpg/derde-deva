@@ -1,0 +1,19 @@
+# yapay zeka calisma dosyalari: depoya girmez
+CLAUDE.md
+AGENTS.md
+.claude/
+.cursor/
+scratchpad/
+.shots/
+.playwright-mcp/
+.backups/
+*.bak
+
+# isletim sistemi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# python
+__pycache__/
+*.pyc
